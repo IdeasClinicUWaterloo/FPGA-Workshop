@@ -15,7 +15,7 @@ module Project2(
         int temp_signed;
         int temp_abs;
         int hundreds, tens, ones;
-		  int temp;
+		int temp;
         logic sign_bit;
 		  
 		  // Convert input (signed 9-bit number with SW[9] as sign indicator)

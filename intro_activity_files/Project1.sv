@@ -9,7 +9,7 @@ module Project1(
 	// TASK: use SW[2:0] to output on LEDR[1:0] according to the full adder diagram
 	
 	// ACTIVITY 2 START
-	// TASK: drive the seven segment display on HEX0 to show numbers 0-3 using switches SW[7:4]
+	// TASK: drive the seven segment display on HEX0 to show numbers 0-3 using switches
 	
 	// Remaps the switches to use SW[7:4] instead of SW[3:0] when SW_remapped is referenced
 	// Please use sw_remapped for your solution instead of SW directly!
