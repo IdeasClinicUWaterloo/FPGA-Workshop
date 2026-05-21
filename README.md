@@ -46,4 +46,4 @@ After learning some fundamental concepts, you will be prepared to do the Interme
 
 ## Setup
 
-Start here: [Setup Notebook](workshop_instructions/setup.ipynb)
+Start here: [Setup Notebook](intermediate_workshop/setup.ipynb)
