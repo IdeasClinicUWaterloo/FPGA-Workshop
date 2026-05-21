@@ -6,7 +6,7 @@ Start here: [Setup](setup.ipynb)
 
 ## Table of Contents
 
-1. [Set-up](intermediate_workshop/setup.ipynb)
+1. [Setup](intermediate_workshop/setup.ipynb)
 2. [Lower Volume](intermediate_workshop/lower_volume.ipynb)
 3. [Robotic Voice Effect](intermediate_workshop/robotic_voice.ipynb)
 4. [Echo Sound Effect](intermediate_workshop/echo.ipynb)
