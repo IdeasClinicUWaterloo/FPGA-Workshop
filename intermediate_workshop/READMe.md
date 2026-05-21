@@ -41,7 +41,3 @@ Start here: [Setup](setup.ipynb)
 - HDMI cable
 - Project files from this repository
 - Intel Quartus Prime Lite Edition installed. Click here for instructions on how to install Quartus
-
-## Setup
-
-Start here: [Setup Notebook](intermediate_workshop/setup.ipynb)
