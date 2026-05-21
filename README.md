@@ -8,17 +8,17 @@ After learning some fundamental concepts, you will be prepared to do the Interme
 
 ## Intermediate Workshop Table of Contents
 
-1. [Set-up](workshop_instructions/setup.ipynb)
-2. [Lower Volume](workshop_instructions/lower_volume.ipynb)
-3. [Robotic Voice Effect](workshop_instructions/robotic_voice.ipynb)
-4. [Echo Sound Effect](workshop_instructions/echo.ipynb)
-5. [Filters](workshop_instructions/filters.ipynb)
-6. [MATLAB for Filter Coefficients](workshop_instructions/matlab_filter.ipynb)
+1. [Set-up](intermediate_workshop/setup.ipynb)
+2. [Lower Volume](intermediate_workshop/lower_volume.ipynb)
+3. [Robotic Voice Effect](intermediate_workshop/robotic_voice.ipynb)
+4. [Echo Sound Effect](intermediate_workshop/echo.ipynb)
+5. [Filters](intermediate_workshop/filters.ipynb)
+6. [MATLAB for Filter Coefficients](intermediate_workshop/matlab_filter.ipynb)
 
 #### Resources
-- [SystemVerilog Reference Sheet](workshop_instructions/reference_sheet.ipynb)
-- [SystemVerilog Guide](workshop_instructions/systemverilog_guide/table_contents.ipynb)
-- [MATLAB Set-up](workshop_instructions/setup.ipynb)
+- [SystemVerilog Reference Sheet](intermediate_workshop/reference_sheet.ipynb)
+- [SystemVerilog Guide](intermediate_workshop/systemverilog_guide/table_contents.ipynb)
+- [MATLAB Set-up](intermediate_workshop/setup.ipynb)
 
 ## Learning Outcomes
 
