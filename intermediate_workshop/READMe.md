@@ -6,17 +6,17 @@ Start here: [Setup](setup.ipynb)
 
 ## Table of Contents
 
-1. [Setup](intermediate_workshop/setup.ipynb)
-2. [Lower Volume](intermediate_workshop/lower_volume.ipynb)
-3. [Robotic Voice Effect](intermediate_workshop/robotic_voice.ipynb)
-4. [Echo Sound Effect](intermediate_workshop/echo.ipynb)
-5. [Filters](intermediate_workshop/filters.ipynb)
-6. [MATLAB for Filter Coefficients](intermediate_workshop/matlab_filter.ipynb)
+1. [Setup](setup.ipynb)
+2. [Lower Volume](lower_volume.ipynb)
+3. [Robotic Voice Effect](robotic_voice.ipynb)
+4. [Echo Sound Effect](echo.ipynb)
+5. [Filters](filters.ipynb)
+6. [MATLAB for Filter Coefficients](matlab_filter.ipynb)
 
 #### Resources
-- [SystemVerilog Reference Sheet](intermediate_workshop/reference_sheet.ipynb)
-- [SystemVerilog Guide](intermediate_workshop/systemverilog_guide/table_contents.ipynb)
-- [MATLAB Set-up](intermediate_workshop/setup.ipynb)
+- [SystemVerilog Reference Sheet](reference_sheet.ipynb)
+- [SystemVerilog Guide](systemverilog_guide/table_contents.ipynb)
+- [MATLAB Set-up](setup.ipynb)
 
 ## Learning Outcomes
 
