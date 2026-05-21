@@ -4,7 +4,7 @@ Welcome to the Summer 2026 FPGA Intermediate Workshop!
 
 Start here: [Setup](setup.ipynb)
 
-## Intermediate Workshop Table of Contents
+## Table of Contents
 
 1. [Set-up](intermediate_workshop/setup.ipynb)
 2. [Lower Volume](intermediate_workshop/lower_volume.ipynb)
