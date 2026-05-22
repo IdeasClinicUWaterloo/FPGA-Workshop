@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(10M50DAF484ES) Path("C:/Users/caitk/Downloads/DE10LITE/output_files/") File("DE10LITE-WORKSHOP.sof") MfrSpec(OpMask(1));
+		Device PartName(10M50DAF484ES) Path("D:/GitHub/S26-FPGA-Workshop/de10lite_intermediate_solution/output_files/") File("DE10LITE-WORKSHOP.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 

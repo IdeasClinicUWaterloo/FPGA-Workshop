@@ -17,8 +17,8 @@ module top (
 
     // user i/o
     input  logic       key1_n,
-    output logic [8:0] ledr,
-    input  logic [8:0] sw
+    output logic [9:0] ledr,
+    input  logic [9:0] sw
 );
 
   // turn the active-low button into active-high reset
