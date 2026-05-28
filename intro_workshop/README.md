@@ -12,7 +12,7 @@ Start here: [Digital Logic](digital_logic.ipynb)
 3. [Full Adder](full_adder.ipynb)
 4. [Seven Segment Display](seven_seg.ipynb)
 5. [Add and Display](add_and_display.ipynb)
-6. [Binary to Decimal Conversion](bcd.ipynb)
+6. [Binary to Decimal Conversion](binary_to_decimal.ipynb)
 
 ### Appendix
 7. [Test Benches](test_benches.ipynb)
