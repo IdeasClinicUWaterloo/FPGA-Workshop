@@ -3,7 +3,7 @@
 Welcome to the Summer 2026 FPGA workshops page!
 These workshops are hosted by the [University of Waterloo IDEAS Clinic](https://uwaterloo.ca/engineering-ideas-clinic/).
 
-Start with installing Quartus with instructions [here](intro_workshop/quartus_install.ipynb).
+Start with installing Quartus using the instructions [here](intro_workshop/quartus_install.ipynb).
 
 The [Introductory Workshop](./intro_workshop/README.md) will teach you about FPGAs.
 After learning some fundamental concepts, you will be prepared to do the Intermediate FPGA workshop outlined below.
