@@ -1,6 +1,6 @@
-# FPGA Workshops S2026
+# FPGA Workshops
 
-Welcome to the Summer 2026 FPGA workshops page!
+Welcome to the FPGA workshops page!
 These workshops are hosted by the [University of Waterloo IDEAS Clinic](https://uwaterloo.ca/engineering-ideas-clinic/).
 
 Start with installing Quartus using the instructions [here](intro_workshop/quartus_install.ipynb).
